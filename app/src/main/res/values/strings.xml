@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Assignmet9.2</string>
+    <string name="menu_item_1">Computer</string>
+    <string name="menu_item_2">Gamepad</string>
+    <string name="menu_item_31">Camera</string>
+    <string name="menu_item_4">Viedo</string>
+    <string name="menu_item_5">Email</string>
+
+</resources>
